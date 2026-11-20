@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,cost_price,stock_quantity,is_active
+P001,Wireless Mouse,Electronics,599,406.37,56,True
+P002,Bluetooth Speaker,Electronics,1499,897.58,115,True
+P003,USB-C Hub,Electronics,1899,1019.12,103,True
+P004,Power Bank,Electronics,1299,762.5,87,True
+P005,Keyboard,Electronics,999,641.62,91,True
+P006,Headphones,Electronics,2199,1661.29,73,True
+P007,Electric Kettle,Home & Kitchen,1199,718.77,8,True
+P008,Mixer Grinder,Home & Kitchen,2899,1587.73,38,True
+P009,Storage Set,Home & Kitchen,799,449.72,38,True
+P010,Desk Lamp,Home & Kitchen,899,475.73,81,True
+P011,Water Bottle,Home & Kitchen,499,311.52,98,True
+P012,Air Fryer,Home & Kitchen,5499,3897.38,60,True
+P013,Backpack,Fashion,1399,931.02,70,True
+P014,Cotton T-Shirt,Fashion,499,273.33,120,True
+P015,Running Shoes,Fashion,2499,1645.29,37,True
+P016,Wallet,Fashion,699,370.93,60,True
+P017,Denim Jeans,Fashion,1799,936.21,108,True
+P018,Wrist Watch,Fashion,3299,2141.8,97,True
+P019,Data Analytics Handbook,Books,699,521.22,99,True
+P020,Business Strategy,Books,549,373.84,51,True
+P021,SQL for Beginners,Books,499,311.13,90,True
+P022,Python Essentials,Books,599,443.85,84,True
+P023,Financial Literacy,Books,399,237.54,113,True
+P024,Marketing Basics,Books,449,246.91,120,True
+P025,Yoga Mat,Sports,799,473.07,44,True
+P026,Cricket Kit,Sports,3499,2379.51,46,True
+P027,Fitness Band,Sports,1999,1232.54,42,True
+P028,Skipping Rope,Sports,299,195.26,29,True
+P029,Dumbbell Set,Sports,1599,992.83,53,True
+P030,Football,Sports,899,613.62,120,True

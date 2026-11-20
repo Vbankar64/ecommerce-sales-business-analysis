@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,state,signup_date
+C0001,Aarav Kulkarni,customer001@example.com,Pune,Maharashtra,2024-09-07
+C0002,Rohan Patil,customer002@example.com,Nashik,Maharashtra,2025-07-12
+C0003,Sara Reddy,customer003@example.com,Pune,Maharashtra,2024-02-02
+C0004,Isha Desai,customer004@example.com,Mumbai,Maharashtra,2024-08-26
+C0005,Sara Sharma,customer005@example.com,Delhi,Delhi,2025-07-28
+C0006,Kabir Reddy,customer006@example.com,Nashik,Maharashtra,2024-08-13
+C0007,Sara Kulkarni,customer007@example.com,Chennai,Tamil Nadu,2024-01-07
+C0008,Aditya Gupta,customer008@example.com,Nagpur,Maharashtra,2024-10-11
+C0009,Anaya Gupta,customer009@example.com,Nagpur,Maharashtra,2024-04-14
+C0010,Aditya Patil,customer010@example.com,Pune,Maharashtra,2025-01-02
+C0011,Sara Kulkarni,customer011@example.com,Hyderabad,Telangana,2024-02-14
+C0012,Kabir Patil,customer012@example.com,Chennai,Tamil Nadu,2025-01-22
+C0013,Kabir Kulkarni,customer013@example.com,Pune,Maharashtra,2025-10-05
+C0014,Diya Desai,customer014@example.com,Jaipur,Rajasthan,2024-03-12
+C0015,Anaya Kulkarni,customer015@example.com,Mumbai,Maharashtra,2024-03-22
+C0016,Isha Reddy,customer016@example.com,Nashik,Maharashtra,2024-10-11
+C0017,Diya Verma,customer017@example.com,Chennai,Tamil Nadu,2025-01-14
+C0018,Anaya Kulkarni,customer018@example.com,Hyderabad,Telangana,2024-03-14
+C0019,Rohan Desai,customer019@example.com,Jaipur,Rajasthan,2024-06-16
+C0020,Aditya Kulkarni,customer020@example.com,Chennai,Tamil Nadu,2025-07-24
+C0021,Diya Sharma,customer021@example.com,Nashik,Maharashtra,2024-08-22
+C0022,Diya Reddy,customer022@example.com,Mumbai,Maharashtra,2024-10-01
+C0023,Anaya Gupta,customer023@example.com,Pune,Maharashtra,2024-08-05
+C0024,Aditya Joshi,customer024@example.com,Chennai,Tamil Nadu,2024-05-26
+C0025,Rohan Desai,customer025@example.com,Solapur,Maharashtra,2025-07-28
+C0026,Vivaan Reddy,customer026@example.com,Delhi,Delhi,2025-08-20
+C0027,Diya Desai,customer027@example.com,Bengaluru,Karnataka,2024-05-21
+C0028,Meera Patil,customer028@example.com,Delhi,Delhi,2024-02-18
+C0029,Rohan Verma,customer029@example.com,Pune,Maharashtra,2025-03-08
+C0030,Isha Reddy,customer030@example.com,Jaipur,Rajasthan,2025-01-25
+C0031,Meera Kulkarni,customer031@example.com,Jaipur,Rajasthan,2025-07-20
+C0032,Isha Kulkarni,customer032@example.com,Mumbai,Maharashtra,2024-12-14
+C0033,Vivaan Reddy,customer033@example.com,Pune,Maharashtra,2024-06-10
+C0034,Aarav Kulkarni,customer034@example.com,Chennai,Tamil Nadu,2025-05-27
+C0035,Kabir Patil,customer035@example.com,Nagpur,Maharashtra,2025-10-02
+C0036,Kabir Desai,customer036@example.com,Solapur,Maharashtra,2024-06-05
+C0037,Rohan Sharma,customer037@example.com,Hyderabad,Telangana,2025-09-05
+C0038,Meera Sharma,customer038@example.com,Hyderabad,Telangana,2024-04-24
+C0039,Vivaan Desai,customer039@example.com,Hyderabad,Telangana,2024-02-29
+C0040,Sara Patil,customer040@example.com,Nashik,Maharashtra,2024-03-28
+C0041,Isha Verma,customer041@example.com,Chennai,Tamil Nadu,2024-05-11
+C0042,Kabir Verma,customer042@example.com,Chennai,Tamil Nadu,2024-09-28
+C0043,Sara Reddy,customer043@example.com,Delhi,Delhi,2024-08-04
+C0044,Anaya Kulkarni,customer044@example.com,Delhi,Delhi,2025-02-12
+C0045,Meera Joshi,customer045@example.com,Hyderabad,Telangana,2024-05-03
+C0046,Anaya Patil,customer046@example.com,Nashik,Maharashtra,2024-12-12
+C0047,Sara Desai,customer047@example.com,Mumbai,Maharashtra,2025-08-25
+C0048,Aarav Patil,customer048@example.com,Nashik,Maharashtra,2025-10-08
+C0049,Anaya Patil,customer049@example.com,Mumbai,Maharashtra,2024-02-02
+C0050,Isha Desai,customer050@example.com,Hyderabad,Telangana,2024-10-12
+C0051,Anaya Verma,customer051@example.com,Chennai,Tamil Nadu,2025-08-07
+C0052,Meera Desai,customer052@example.com,Jaipur,Rajasthan,2025-04-29
+C0053,Anaya Patil,customer053@example.com,Bengaluru,Karnataka,2024-04-09
+C0054,Diya Reddy,customer054@example.com,Bengaluru,Karnataka,2025-02-24
+C0055,Aarav Patil,customer055@example.com,Chennai,Tamil Nadu,2024-03-03
+C0056,Diya Patil,customer056@example.com,Bengaluru,Karnataka,2024-09-11
+C0057,Anaya Joshi,customer057@example.com,Nashik,Maharashtra,2024-05-23
+C0058,Rohan Kulkarni,customer058@example.com,Bengaluru,Karnataka,2025-04-18
+C0059,Isha Joshi,customer059@example.com,Nashik,Maharashtra,2025-07-17
+C0060,Aarav Sharma,customer060@example.com,Pune,Maharashtra,2024-04-05
+C0061,Rohan Reddy,customer061@example.com,Nashik,Maharashtra,2025-05-12
+C0062,Anaya Reddy,customer062@example.com,Chennai,Tamil Nadu,2024-03-01
+C0063,Aditya Sharma,customer063@example.com,Nagpur,Maharashtra,2025-02-03
+C0064,Meera Kulkarni,customer064@example.com,Solapur,Maharashtra,2025-03-09
+C0065,Meera Verma,customer065@example.com,Delhi,Delhi,2024-07-13
+C0066,Anaya Sharma,customer066@example.com,Solapur,Maharashtra,2025-08-16
+C0067,Aarav Gupta,customer067@example.com,Delhi,Delhi,2024-02-28
+C0068,Sara Joshi,customer068@example.com,Mumbai,Maharashtra,2025-05-29
+C0069,Rohan Sharma,customer069@example.com,Delhi,Delhi,2025-06-04
+C0070,Rohan Patil,customer070@example.com,Pune,Maharashtra,2025-09-01
+C0071,Anaya Reddy,customer071@example.com,Pune,Maharashtra,2024-05-02
+C0072,Anaya Sharma,customer072@example.com,Jaipur,Rajasthan,2025-09-26
+C0073,Aditya Gupta,customer073@example.com,Pune,Maharashtra,2024-09-24
+C0074,Diya Desai,customer074@example.com,Nashik,Maharashtra,2024-09-28
+C0075,Rohan Kulkarni,customer075@example.com,Bengaluru,Karnataka,2025-04-13
+C0076,Isha Sharma,customer076@example.com,Hyderabad,Telangana,2025-04-14
+C0077,Sara Patil,customer077@example.com,Jaipur,Rajasthan,2024-03-16
+C0078,Anaya Kulkarni,customer078@example.com,Delhi,Delhi,2024-05-15
+C0079,Isha Desai,customer079@example.com,Hyderabad,Telangana,2025-01-13
+C0080,Rohan Joshi,customer080@example.com,Solapur,Maharashtra,2025-07-10
+C0081,Sara Sharma,customer081@example.com,Solapur,Maharashtra,2025-07-21
+C0082,Isha Verma,customer082@example.com,Solapur,Maharashtra,2024-09-27
+C0083,Isha Verma,customer083@example.com,Pune,Maharashtra,2024-10-05
+C0084,Sara Desai,customer084@example.com,Solapur,Maharashtra,2024-12-17
+C0085,Vivaan Joshi,customer085@example.com,Nashik,Maharashtra,2024-09-14
+C0086,Isha Reddy,customer086@example.com,Mumbai,Maharashtra,2024-10-10
+C0087,Aarav Gupta,customer087@example.com,Mumbai,Maharashtra,2024-05-13
+C0088,Rohan Joshi,customer088@example.com,Solapur,Maharashtra,2025-07-18
+C0089,Kabir Sharma,customer089@example.com,Bengaluru,Karnataka,2024-04-24
+C0090,Rohan Sharma,customer090@example.com,Pune,Maharashtra,2025-01-13
+C0091,Kabir Verma,customer091@example.com,Jaipur,Rajasthan,2025-03-16
+C0092,Aarav Kulkarni,customer092@example.com,Nagpur,Maharashtra,2025-01-08
+C0093,Diya Desai,customer093@example.com,Mumbai,Maharashtra,2024-09-12
+C0094,Diya Reddy,customer094@example.com,Pune,Maharashtra,2025-09-27
+C0095,Anaya Verma,customer095@example.com,Nagpur,Maharashtra,2024-06-30
+C0096,Aarav Verma,customer096@example.com,Bengaluru,Karnataka,2024-12-06
+C0097,Anaya Kulkarni,customer097@example.com,Bengaluru,Karnataka,2024-06-12
+C0098,Aditya Sharma,customer098@example.com,Pune,Maharashtra,2025-04-26
+C0099,Anaya Joshi,customer099@example.com,Nashik,Maharashtra,2024-12-24
+C0100,Anaya Desai,customer100@example.com,Solapur,Maharashtra,2024-01-25
