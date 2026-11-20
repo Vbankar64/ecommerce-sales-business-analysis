@@ -44,3 +44,6 @@ An end-to-end e-commerce data analytics project using Microsoft Excel to analyze
 
 ## Project Outcome
 This project demonstrates practical Excel data cleaning, transformation, analysis, visualization, and business reporting skills.
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](Dashboard.png)
