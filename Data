@@ -1,0 +1,13 @@
+# Source Datasets
+
+This folder contains the source datasets used for the E-Commerce Sales & Business Performance Analysis project.
+
+## Dataset Files
+- customers.csv
+- products.csv
+- orders.csv
+- order_items.csv
+- payments.csv
+
+These datasets support the Excel data cleaning, transformation, and business analysis process.
+
